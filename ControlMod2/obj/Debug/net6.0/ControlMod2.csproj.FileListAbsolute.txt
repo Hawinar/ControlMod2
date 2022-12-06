@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\bin\Debug\net6.0\ControlMod2.exe
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\bin\Debug\net6.0\ControlMod2.deps.json
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\bin\Debug\net6.0\ControlMod2.runtimeconfig.json
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\bin\Debug\net6.0\ControlMod2.dll
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\bin\Debug\net6.0\ControlMod2.pdb
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.dll
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\refint\ControlMod2.dll
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.pdb
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ControlMod2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ControlMod2\ControlMod2\obj\Debug\net6.0\ref\ControlMod2.dll
